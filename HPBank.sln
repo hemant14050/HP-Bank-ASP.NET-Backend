@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPBank", "HPBank.csproj", "{F853C756-2EC5-47AE-94B0-8FDD5870807A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F853C756-2EC5-47AE-94B0-8FDD5870807A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F853C756-2EC5-47AE-94B0-8FDD5870807A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F853C756-2EC5-47AE-94B0-8FDD5870807A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F853C756-2EC5-47AE-94B0-8FDD5870807A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BB058CA-5C17-4924-8682-4208C2419FC5}
+	EndGlobalSection
+EndGlobal
